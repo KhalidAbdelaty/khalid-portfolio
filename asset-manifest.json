@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/khalid-portfolio/static/css/main.cb6b3a68.css",
+    "main.js": "/khalid-portfolio/static/js/main.e7c18ee2.js",
+    "static/js/453.3ea42f83.chunk.js": "/khalid-portfolio/static/js/453.3ea42f83.chunk.js",
+    "static/media/photo_2024-09-06_16-20-49.jpg": "/khalid-portfolio/static/media/photo_2024-09-06_16-20-49.47aea614635e6b97aeb2.jpg",
+    "index.html": "/khalid-portfolio/index.html",
+    "main.cb6b3a68.css.map": "/khalid-portfolio/static/css/main.cb6b3a68.css.map",
+    "main.e7c18ee2.js.map": "/khalid-portfolio/static/js/main.e7c18ee2.js.map",
+    "453.3ea42f83.chunk.js.map": "/khalid-portfolio/static/js/453.3ea42f83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb6b3a68.css",
+    "static/js/main.e7c18ee2.js"
+  ]
+}
